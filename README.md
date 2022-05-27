@@ -16,9 +16,9 @@
 python3 filename.py 
 ```
 ### Directory structure
-config
+- config
   - .env
-lib
+- lib
   - crawler
     - master
       - goonet.py
@@ -39,7 +39,7 @@ lib
       - client.py
     - dbmanager.py
     - utils.py
-db
+- db
   - database.db
 
 config
