@@ -1,5 +1,5 @@
 # README
-### How to build a development environment?
+### Development environment
 #### PIP version 22.1.1
 #### Python version 3.7.7
 #### Package:
@@ -17,7 +17,7 @@ python3 filename.py
 ```
 ### Directory structure
 config:
-  .env
+       .env
 lib
   crawler:
   　 master
