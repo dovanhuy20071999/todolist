@@ -31,9 +31,13 @@ python3 filename.py
     - one_price
       - asnet_oneprice.py
       - tc_web_oneprice.py
+      - junavy_oneprice.py
+      - uss_oneprice.py
+      - iauc_oneprice.py
     - past
-      - asnet.py
-      - ...
+      - asnet_past.py
+      - iauc_past.py
+      - uss_past.py
     - send_data
       - keys
         - server.crt
