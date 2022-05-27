@@ -17,8 +17,30 @@ python3 filename.py
 ```
 ### Directory structure
 config
-  |- .env
+  - .env
 lib
+  - crawler
+    - master
+      - goonet.py
+    - detail
+      - asnet.py
+      - iauc.py
+      - ...
+    - one_price
+      - asnet_oneprice.py
+      - tc_web_oneprice.py
+    - past
+      - asnet.py
+      - ...
+    - send_data
+      - keys
+        - server.crt
+        - server.key
+      - client.py
+    - dbmanager.py
+    - utils.py
+db
+  - database.db
 
 config
     *env
