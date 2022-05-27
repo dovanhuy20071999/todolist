@@ -3,11 +3,11 @@
 #### PIP version 22.1.1
 #### Python version 3.7.7
 #### Package:
-  1. dotenv
+  #### dotenv
   ```bash
   pip install python-dotenv
   ```
-  2. bugsnag
+  #### bugsnag
   ```bash
   pip install bugsnag
   ```
