@@ -16,8 +16,8 @@
 python3 filename.py 
 ```
 ### Directory structure
-config:
-       .env
+-config:
+      -.env
 lib
   crawler:
   　 master
