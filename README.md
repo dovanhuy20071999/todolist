@@ -17,7 +17,7 @@ python3 filename.py
 ```
 ### Directory structure
 config
-  - .env
+  └ .env
 lib
 
 config
