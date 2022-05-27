@@ -11,13 +11,13 @@
   ```bash
   pip install bugsnag
   ```
-#### Run bot 
+#### Run bot crawl data
 ```bash
 python3 filename.py 
 ```
 ### Directory structure
--config:
-      -.env
+config
+|-.env
 lib
   crawler:
   　 master
